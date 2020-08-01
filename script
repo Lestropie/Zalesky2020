@@ -7,7 +7,12 @@
 # A cautionary note on the use of SIFT in pathological connectomes
 # Magn Reson Med. 2020 Mar;83(2):791-794. doi: 10.1002/mrm.28037
 #
-# , when streamlines truncated due to pathology are included in the model.
+# , when streamlines truncated due to pathology are included in the model, as
+#   shown in:
+#
+# Smith RE, Calamante F, Connelly A
+# Notes on "A cautionary note on the use of SIFT in pathological connectomes"
+# Magn Reson Med. 2020 Jul;84(5):2303-2307. doi: 10.1002/mrm.28266
 
 # Files provided in directory 'data/':
 # FODs.mif: Fibre Orientation Distribution data; includes pathology in upper bundle (bundle 1)
