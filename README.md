@@ -4,7 +4,11 @@ The data and script provided in this repository are a response to the 'toy examp
     A cautionary note on the use of SIFT in pathological connectomes
     Magnetic Resonance in Medicine 2020;83(3):791-794
 
-Reference for the corresponding letter to the editor, which describes this experiment in greater detail, will be added here once that letter is accepted for publication.
+The results are presented in:
+
+    Robert E. Smith, Fernando Calamante, Alan Connelly
+    Notes on “A cautionary note on the use of SIFT in pathological connectomes”
+    Magnetic Resonance in Medicine 2020;84(5):2303-2307
 
 There are two experiments encapsulated within this repository:
 
