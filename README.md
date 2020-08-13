@@ -15,3 +15,11 @@ There are two experiments encapsulated within this repository:
 -   Demonstration of the operation of the SIFT and SIFT2 methods on data for this phantom if those streamlines failing to traverse the pathological voxel in bundle 1 were not erroneously removed prior to the application of these methods. This demonstration is performed by executing file "`script`". This requires a working installation of the *MRtrix3* software (https://github.com/MRtrix3/mrtrix3).
 
 -   Reproduction of the results of the analytic solution presented in the aforementioned manuscript, but with additional crucial details demonstrated. This was written for Octave - though it therefore may additionally work if performed in Matlab - and is executed via file "`process.m`". The additional files "`calc_cf.m`", "`calc_mu.m`" and "`calc_n1.m`" must all appear within the Octave path.
+
+-----
+
+This repository is the second of three demonstrations related to a series of articles in the Magnetic Resonance in Medicine journal. For demonstrations related to the prior and subsequent articles see:
+
+http://github.com/Lestropie/Sarwar2019
+
+http://github.com/Lestropie/Zalesky2020b
