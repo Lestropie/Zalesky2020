@@ -1,14 +1,14 @@
-The data and script provided in this repository are a response to the 'toy example' phantom presented in the article:
-
-    Andrew Zalesky, Tabinda Sarwar and Kotagiri Ramamohanarao
-    A cautionary note on the use of SIFT in pathological connectomes
-    Magnetic Resonance in Medicine 2020;83(3):791-794
-
-The results are presented in:
+The data and script provided in this repository accompany results presented in the [article](https://onlinelibrary.wiley.com/doi/10.1002/mrm.28266):
 
     Robert E. Smith, Fernando Calamante, Alan Connelly
     Notes on “A cautionary note on the use of SIFT in pathological connectomes”
     Magnetic Resonance in Medicine 2020;84(5):2303-2307
+
+These are a response to the 'toy example' phantom presented in the [article](https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.28037):
+
+    Andrew Zalesky, Tabinda Sarwar and Kotagiri Ramamohanarao
+    A cautionary note on the use of SIFT in pathological connectomes
+    Magnetic Resonance in Medicine 2020;83(3):791-794
 
 There are two experiments encapsulated within this repository:
 
